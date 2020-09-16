@@ -20,8 +20,11 @@
 Script feito para pegar as horas de uma playlist no youtube.
 
 <h2 id="como-usar">Rodando o Script</h2>
+
 1. Abra o DevTools na página da playlist apertando F12 e vá na aba console
+
 1. copie o código do script no console
+
 1. Ele ir exibir um alerta com as horas/minutos da playlist
 
 <h2 id="tecnologias">Tecnologias</h2>
